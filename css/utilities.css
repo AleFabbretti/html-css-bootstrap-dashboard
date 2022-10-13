@@ -14,6 +14,10 @@
 .ms-bg-secondary-dark {
     background-color: var(--secondary-color-dark);
 }
+
+.ms-bg-third{
+    background-color: var(--third-color);
+}
 /* /BACKGROUND COLORS */
 
 /* COLORS */
