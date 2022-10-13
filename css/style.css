@@ -4,3 +4,25 @@
 @import url(aside.css);
 @import url(main.css);
 /* /CORE */
+
+body{
+    height: 100vh;
+}
+
+.page-container{
+    height: calc(100vh - 70px);
+    display: flex;
+}
+
+aside{
+    width: 200px; 
+    /* da trasformare poi in altezza auto */
+    flex-shrink: 0;
+    background-color: blueviolet;
+}
+
+main{
+    background-color: bisque;
+    flex-grow: 1;
+    overflow-y: auto;
+}
