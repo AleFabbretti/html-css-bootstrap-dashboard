@@ -15,3 +15,21 @@
     background-color: var(--secondary-color-dark);
 }
 /* /BACKGROUND COLORS */
+
+/* COLORS */
+.ms-color-primary {
+    color: var(--primary-color);
+}
+
+.ms-color-primary-dark {
+    color: var(--primary-color-dark);
+}
+
+.ms-color-secondary {
+    color: var(--secondary-color);
+}
+
+.ms-color-secondary-dark {
+    color: var(--secondary-color-dark);
+}
+/* /COLORS */

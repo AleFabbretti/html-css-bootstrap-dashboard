@@ -11,4 +11,14 @@ aside{
 aside img{
     height: 100%;
 }
+
+aside a{
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+aside i{
+    padding-right: 30px;
+}
 /* /ASIDE */
