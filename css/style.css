@@ -2,6 +2,7 @@
 @import url(variables.css);
 @import url(utilities.css);
 @import url(typography.css);
+@import url(common.css);
 @import url(header.css);
 @import url(aside.css);
 @import url(main.css);
