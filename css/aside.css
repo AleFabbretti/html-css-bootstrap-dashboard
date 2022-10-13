@@ -1,0 +1,14 @@
+/* ASIDE */
+aside{
+    width: 200px; 
+    /* da trasformare poi in larghezza auto */
+    flex-shrink: 0;
+    position: relative;
+    background-image: url(/img/sidebar-bg.png);
+    background-size: cover;
+}
+
+aside img{
+    height: 100%;
+}
+/* /ASIDE */

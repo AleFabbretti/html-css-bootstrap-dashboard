@@ -18,13 +18,6 @@ body{
     display: flex;
 }
 
-aside{
-    width: 200px; 
-    /* da trasformare poi in larghezza auto */
-    flex-shrink: 0;
-    background-color: blueviolet;
-}
-
 main{
     background-color: bisque;
     flex-grow: 1;
