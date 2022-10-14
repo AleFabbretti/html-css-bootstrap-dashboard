@@ -2,4 +2,19 @@
 img {
     max-width: 100%;
 }
+
+body{
+    height: 100vh;
+}
+
+.page-container{
+    height: calc(100vh - 70px);
+    display: flex;
+}
+
+.ms-list-reset{
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
 /* /COMMON */

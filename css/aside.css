@@ -8,6 +8,22 @@ aside{
     background-size: cover;
 }
 
+.ms-aside-menu {
+    color: #fff;
+}
+
+.ms-aside-menu__item {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.1s linear;
+}
+
+.ms-aside-menu__item:hover{
+    background: rgba(255, 255, 255, 0.5);
+}
+
 aside img{
     height: 100%;
 }
