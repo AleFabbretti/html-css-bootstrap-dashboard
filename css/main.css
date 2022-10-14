@@ -1,4 +1,18 @@
 /* MAIN */
+
+/* BADGE */
+.ms-badge{
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    background: rgba(0, 0, 0, 0.2);
+    transition: background-color 0.1s linear;
+}
+
+.ms-badge:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+/* /BADGE */
 th img{
     width: 30px;
     height: 30px;

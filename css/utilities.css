@@ -18,6 +18,10 @@
 .ms-bg-third{
     background-color: var(--third-color);
 }
+
+.ms-bg-badge {
+    background-color: var(--badge-color);
+}
 /* /BACKGROUND COLORS */
 
 /* COLORS */

@@ -1,7 +1,6 @@
 /* ASIDE */
 aside{
     width: auto; 
-    /* da trasformare poi in larghezza auto */
     flex-shrink: 0;
     position: relative;
     background-image: url(/img/sidebar-bg.png);
