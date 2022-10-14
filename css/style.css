@@ -17,10 +17,4 @@ body{
     height: calc(100vh - 70px);
     display: flex;
 }
-
-main{
-    background-color: bisque;
-    flex-grow: 1;
-    overflow-y: auto;
-}
 /* /MAIN STRUCTURE */

@@ -4,4 +4,9 @@ th img{
     height: 30px;
     margin-right: 10px;
 }
+
+main{
+    flex-grow: 1;
+    overflow-y: auto;
+}
 /* /MAIN */

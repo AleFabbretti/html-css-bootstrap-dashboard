@@ -36,4 +36,8 @@
 .ms-color-secondary-dark {
     color: var(--secondary-color-dark);
 }
+
+.ms-color-accent-color{
+    color: var(--accent-color)
+}
 /* /COLORS */

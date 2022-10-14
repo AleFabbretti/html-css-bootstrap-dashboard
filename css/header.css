@@ -5,11 +5,16 @@ header{
 }
 
 header img {
-    height: 50px;
+    max-height: 40px;
 }
 
 header i{
     padding: 0 5px;
+}
+
+header a:not(:last-child){
+    color: #5a5858;
+    padding-right: 5px;
 }
 /* /HEADER */
 
