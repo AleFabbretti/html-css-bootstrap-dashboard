@@ -1,6 +1,6 @@
 /* ASIDE */
 aside{
-    width: 200px; 
+    width: auto; 
     /* da trasformare poi in larghezza auto */
     flex-shrink: 0;
     position: relative;
